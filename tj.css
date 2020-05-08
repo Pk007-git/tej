@@ -1,0 +1,62 @@
+.tj{
+    padding: 0px;
+    margin: 0px;
+    background-size: auto;
+    background:url(tony.jpg)
+
+}
+
+
+.tej{
+    border-radius:100vh;
+    border-radius: 0px solid cyan;
+    width:200px;
+}
+.tj1{
+width: 330px;
+padding: 10px;
+margin-top: 150px;
+margin-left: 450px;
+color:rgba(8, 196, 196, 0.781);
+display: flexbox;
+text-align: center;
+background-color:rgba(0 , 0, 0, 0.5);
+box-shadow: 0 0 5px lightseagreen, 0 0 8px lightseagreen,0 0 12px lightseagreen,0 0 15px white;
+font-family: "ocrs","montserat",sans-serif;
+filter: drop-shadow(0 0 140px rgb(107, 103, 103));
+box-shadow: 0 0 10px rgb(48, 99, 99);
+scrollbar-shadow-color:0 0 10px  cyan;
+}
+
+.tej1 h1 h2{
+    color: cyan;
+    padding-top: 20px;
+    padding-bottom: 0;
+    font-weight: 100;
+    text-shadow: 1px 1px 8px black,0 3 70px blue, 6px 10px darkcyan;
+    font-size: 15px;
+
+}
+.tj1 ul{
+  padding: 0px;
+  margin: 0px;
+}
+
+.tj1 li{
+    display: inline;
+    margin: 6px;
+    list-style: none;
+}
+
+.tj1 li{
+    color: darkcyan;
+    text-decoration: none;
+    font-size: 45px;
+    text-decoration: none;
+    transition: all ease-in-out;
+
+}
+ .tj1 li a:hover{
+    color: rgb(24, 13, 13);
+
+ }
